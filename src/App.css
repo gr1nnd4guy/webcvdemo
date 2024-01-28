@@ -1,0 +1,26 @@
+h1 {
+  font-size: 23px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header p {
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+#plate1 {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
